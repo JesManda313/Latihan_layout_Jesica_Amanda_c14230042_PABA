@@ -397,7 +397,7 @@
                 <ImageView
                     android:layout_width="150sp"
                     android:layout_height="150sp"
-                    android:src="@drawable/barang1"
+                    android:src="@drawable/barang2"
                     android:scaleType="centerCrop"
                     android:background="@drawable/rounded_image"
                     android:clipToOutline="true">
